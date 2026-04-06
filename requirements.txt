@@ -1,0 +1,11 @@
+﻿pandas
+tqdm
+matplotlib
+torch
+transformers
+datasets
+peft
+trl
+bitsandbytes
+accelerate
+gradio
