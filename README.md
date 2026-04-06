@@ -78,4 +78,4 @@ python 3_app.py
 
 ## Development Team
 
-  * Group 16: Yu-Xiang Yang, Heng-Zhen Lin, En-Shuo Chan, Ching-Ling Chung.
+Yu-Xiang Yang, Heng-Zhen Lin, En-Shuo Chan, Ching-Ling Chung.
